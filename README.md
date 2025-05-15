@@ -39,7 +39,7 @@ The project includes the following pages:
 ## 📸 Screenshot
 
 ### 1️⃣ Home Page  
-![Homepage](screenshots/home.png)
+![Homepage](screenshots/Home.png)
 
 ## 2️⃣ About Page
 ![About](screenshots/About.png)
@@ -48,13 +48,13 @@ The project includes the following pages:
 ![News](screenshots/News.png)
 
 ### 3️⃣ gallery Page
-![gallary](screenshots/gallary.png)
+![gallary](screenshots/Gallary.png)
 
 ### 3️⃣ Timetable Page
 ![TimeTable](screenshots/TimeTable.png)
 
 ### 3️⃣ Login Page 1
-![Login1](screenshots/Login1.png)
+![Login1](screenshots/Login.png)
 
 ### 3️⃣ Login Page 2
 ![Login2](screenshots/Login2.png)
